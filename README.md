@@ -1,11 +1,9 @@
-<h1>RPG Character Database<h1>
+<h1><a href="https://bp-rpg-character-database.herokuapp.com">RPG Character Database</a><h1>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <h2>Description</h2>
 View, create, and comment on your's and other's RPG characters
-
-[Heroku Deployment](https://bp-rpg-character-database.herokuapp.com/)
 
 <h2>Table Of Contents</h2>
 <ul><li><a href="#install">Installation</a></li>
